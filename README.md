@@ -1,2 +1,0 @@
-# MyWeatherApp
-Created with CodeSandbox
